@@ -1,0 +1,77 @@
+.index h1 {
+    font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: blue;
+    background-color: red;
+}
+
+.index ul li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.biryani h1,
+.oats h1,
+.maggi h1 {
+    font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: aqua;
+    background-color: #ffff00;
+}
+
+.biryani h2,
+.oats h2,
+.maggi h2 {
+    font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: yellowgreen;
+    background-color: #ffff00;
+}
+
+.biryani p,
+.oats p,
+.maggi p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#headIng,
+#headIng {
+    font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: purple;
+    background-color: #ffff00;
+}
+
+#headstep,
+#headstep {
+    font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: red;
+    background-color: #ffff00;
+}
+
+.biryani ul li,
+.oats ul li,
+.maggi ul li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.biryani ol li,
+.oats ol li,
+.maggi ol li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.biryani a,
+.oats a,
+.maggi a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: blueviolet;
+}
