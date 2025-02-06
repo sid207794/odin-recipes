@@ -1,9 +1,28 @@
+body {
+    background-color: darkblue;
+}
+
 .index h1 {
     font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 48px;
     color: blue;
     background-color: red;
+    text-align: center;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.index button {
+    display: block;
+    background-color: aqua;
+    border-radius: 10px;
+    border-color: crimson;
+    margin: 20px 0px;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .index ul li {
@@ -20,6 +39,16 @@
     font-size: 48px;
     color: aqua;
     background-color: #ffff00;
+    text-align: center;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+.bir-img,
+.mag-img,
+.oat-img {
+    display: block;
+    margin: 0 auto;
 }
 
 .biryani h2,
@@ -36,6 +65,7 @@
 .oats p,
 .maggi p {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
 }
 
 #headIng,
@@ -60,12 +90,22 @@
 .oats ul li,
 .maggi ul li {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
 }
 
 .biryani ol li,
 .oats ol li,
 .maggi ol li {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.biryani button,
+.maggi button,
+.oats button {
+    display: block;
+    margin: 0 auto;
+    padding: 5px 10px;
 }
 
 .biryani a,
